@@ -1,3 +1,5 @@
+# All are sample code from varios web sites. Thanks and Acknowledgement to all original Authors
+
 import datetime
 
 print(1)
